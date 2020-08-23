@@ -1,0 +1,57 @@
+*body {
+  box-sizing: border-box;
+}
+
+h3 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size:1.2rem;
+  color: #3b5249;
+  text-align: center;
+}
+
+
+.feedback-heading {
+  font-size: 25px;
+  font-family: 'Shadows Into Light', cursive;
+  text-align: center;
+  color: darkblue;
+}
+
+
+.feedback-form {
+  text-align: justify;
+  width: 100%;
+  font-size: 15px solid darkred;
+  font-family: 'Shadows Into Light', cursive;
+  text-align: justify;
+  color: darkred;
+  border: 2px solid #0f3460;
+  padding-left: 30px;
+  box-shadow: 0px 2px 5px #1a1a2e;
+
+  }
+
+  .feedback-image1 {
+    width 50%;
+  }
+
+.feedback-image2 {
+  width: 100%;
+}
+
+.box {
+  box-shadow: 0px 2px 5px #1a1a2e;
+border: 2px solid #0f3460;
+}
+
+.copyright-contactus {
+
+  text-align: center;
+
+}
+
+.copyright-contactus1 {
+text-align: left;
+margin: 0;
+
+}
